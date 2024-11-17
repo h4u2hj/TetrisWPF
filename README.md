@@ -8,4 +8,4 @@
 ##### Pink mode for alternative block and grid colors
 
 ## Run the game
-Download the publish folder and run TetrisWPF.exe
+Run setup.exe from publish folder
