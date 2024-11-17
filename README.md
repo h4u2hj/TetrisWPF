@@ -6,3 +6,6 @@
 ##### Saving the game to file, loading from file
 
 ##### Pink mode for alternative block and grid colors
+
+## Run the game
+Download the publish folder and run TetrisWPF.exe
