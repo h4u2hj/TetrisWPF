@@ -8,4 +8,4 @@
 ##### Pink mode for alternative block and grid colors
 
 ## Run the game
-Run setup.exe from publish folder
+Run setup.exe from the publish folder
