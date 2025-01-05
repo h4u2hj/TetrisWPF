@@ -1,5 +1,5 @@
 # Tetris
-#### Tetris game written in C# WPF using MVVM architecture
+#### Tetris game written in C# WPF using MVVM architecture. Includes documentation
 ## Features
 ##### Pausing, starting new game
 
